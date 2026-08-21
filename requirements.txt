@@ -1,0 +1,10 @@
+streamlit
+google-genai
+fpdf2
+supabase
+pypdf
+python-docx
+streamlit-markmap
+arabic-reshaper
+python-bidi
+streamlit-option-menu
